@@ -1,1 +1,2 @@
 # Inventory-Application
+ The parts inventory application was built as a project for my Software 1 computer science class. I was provided a UML class diagram of how the project should be structured and the implementation was left up to me to complete. This program applies object-oriented design principles such as inheritence, encapsulation, and abstraction while using a Model-View-Controller(MVC) architectural pattern. 
